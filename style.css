@@ -1,0 +1,52 @@
+p {
+    color: skyblue;
+    width: 700px;
+    margin:0;
+    padding: 50px 100px 20px 800px;
+    
+  }
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding: 30px 30px 30px 30px;
+
+}
+
+#right{
+  float: right;
+}
+
+h1{
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: right;
+    
+}
+
+h1 {
+    margin:0%;
+    padding:50px 50px 50px 200px;
+    color: skyblue;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  body {
+    background-image: url("background.jpg") ;
+    background-color: fuchsia;
+    height: 700px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+  }
+
+  html {
+    background-color:#F5FFFA ;
+  }
+
+  #myid{
+    padding: 150px 200px 0px 1000px;
+
+  }
+
