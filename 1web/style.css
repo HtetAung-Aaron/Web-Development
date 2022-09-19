@@ -1,0 +1,63 @@
+/* 
+website is not responsive yet
+*/
+
+
+
+
+p {
+    color: yellowgreen;
+    width: 700px;
+    margin:0;
+    padding: 50px 100px 20px 850px;
+    
+  }
+
+img{
+  width: 220px;
+  border-radius: 50%;
+  margin-right: 70px;
+  
+  
+}
+
+#right{
+  float: right;
+}
+
+h1{
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: right;
+    
+}
+
+h1 {
+    margin:0%;
+    padding:50px 70px 20px 170px;
+    color:yellowgreen;
+    text-shadow: 3px 3px 1px black;
+    
+  }
+
+  body {
+    background-image: url("background.jpg") ;
+    background-color: fuchsia;  
+    height: 700px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 100%; 
+    overflow-x:hidden;
+    overflow-y:hidden;
+  }
+
+  html {
+    background-color:#F5FFFA ;
+  }
+
+  #myid{
+    color:yellowgreen;
+    padding: 70px 200px 0px 1000px;
+
+  }
+
