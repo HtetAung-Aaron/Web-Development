@@ -1,3 +1,10 @@
+/* 
+website is not responsive yet
+*/
+
+
+
+
 p {
     color: yellowgreen;
     width: 700px;
@@ -7,10 +14,10 @@ p {
   }
 
 img{
-  width: 200px;
-  height: 200px;
+  width: 220px;
   border-radius: 50%;
-  padding: 50px 50px 50px 50px;
+  margin-right: 70px;
+  
   
 }
 
@@ -35,7 +42,7 @@ h1 {
 
   body {
     background-image: url("background.jpg") ;
-    background-color: fuchsia;
+    background-color: fuchsia;  
     height: 700px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
