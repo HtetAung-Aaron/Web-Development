@@ -1,3 +1,3 @@
 # Web-Development
-Web dev tech..
+Web developing technology..
 starting with express  and node js 
