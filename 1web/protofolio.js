@@ -1,6 +1,5 @@
 /*  
-for long story short i use express and node js 
-
+ by using express and node js 
 */
 
 const express = require("express");
