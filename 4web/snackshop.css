@@ -1,0 +1,40 @@
+h1{
+    color: yellow;
+    text-align: center;
+    font-size: 85px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    margin: 10px 10px 10px 10px;
+}
+
+hr{
+    color: red;
+    width: 40%;
+    height: auto;
+}
+
+
+body{
+    
+    background-color: rgb(52, 45, 36);
+    
+}
+
+label{
+    color: darkblue;
+}
+
+select{
+    color: darkblue;
+}
+
+
+p{
+    color: darkblue;
+    margin: 20px 40px 50px 10px;
+}
+
+button{
+    color: darkblue;
+    margin: 10px 10px 20px 20px;
+}
